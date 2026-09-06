@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VeinVision",
+      "hasCanvas": false,
+      "bodyTextLen": 905,
+      "bodyTextHash": "7ea57dc3a982299d0ef13c9cde7841caf9633ff03009d4eb03f8d4d8b0e1d812",
+      "bodyTextPrefix": "VeinVision SIA COMMUNITY VOTING Download A 50-SECOND FILM When y",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VeinVision",
+      "hasCanvas": false,
+      "bodyTextLen": 894,
+      "bodyTextHash": "e4cffdb0e76190180a40482fccc6714ab08461f088e99cfefb5a9febd6ecc650",
+      "bodyTextPrefix": "VeinVision SIA COMMUNITY VOTING Download A 50-SECOND FILM When y",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

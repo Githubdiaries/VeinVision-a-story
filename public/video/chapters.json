@@ -1,0 +1,112 @@
+{
+  "duration": 59.83,
+  "chapters": [
+    {
+      "id": "title",
+      "t": 0.0,
+      "title": "VeinVision"
+    },
+    {
+      "id": "wait",
+      "t": 2.4,
+      "title": "The wait"
+    },
+    {
+      "id": "red",
+      "t": 8.44,
+      "title": "The red light"
+    },
+    {
+      "id": "person",
+      "t": 14.48,
+      "title": "A person waiting"
+    },
+    {
+      "id": "offer",
+      "t": 20.52,
+      "title": "A different way"
+    },
+    {
+      "id": "device",
+      "t": 26.56,
+      "title": "VeinVision"
+    },
+    {
+      "id": "see",
+      "t": 32.6,
+      "title": "Seeing clearly"
+    },
+    {
+      "id": "ease",
+      "t": 40.1,
+      "title": "At ease"
+    },
+    {
+      "id": "how",
+      "t": 46.1,
+      "title": "The device"
+    },
+    {
+      "id": "message",
+      "t": 52.6,
+      "title": "The message"
+    }
+  ],
+  "cues": [
+    {
+      "start": 2.71,
+      "end": 5.76,
+      "text": "To a nurse, finding a vein can be routine."
+    },
+    {
+      "start": 5.71,
+      "end": 8.59,
+      "text": "For a patient, it can feel like a long wait."
+    },
+    {
+      "start": 8.55,
+      "end": 10.08,
+      "text": "Sometimes painful."
+    },
+    {
+      "start": 10.1,
+      "end": 14.68,
+      "text": "But sometimes, the technology meant to help\nstill leaves the moment frustrating."
+    },
+    {
+      "start": 14.990000000000002,
+      "end": 19.09,
+      "text": "Because behind every vein\nis a person waiting to feel reassured."
+    },
+    {
+      "start": 21.18,
+      "end": 24.419999999999998,
+      "text": "Then another nurse noticed \u2014\nand offered a different way."
+    },
+    {
+      "start": 27.22,
+      "end": 29.079977324263037,
+      "text": "She picked up VeinVision."
+    },
+    {
+      "start": 33.36,
+      "end": 36.36,
+      "text": "And this time, she could see\nthe veins more clearly."
+    },
+    {
+      "start": 40.56,
+      "end": 42.97,
+      "text": "Less hesitation. Less waiting."
+    },
+    {
+      "start": 42.660000000000004,
+      "end": 45.32,
+      "text": "And a patient who feels\na little more at ease."
+    },
+    {
+      "start": 53.010000000000005,
+      "end": 55.39000000000001,
+      "text": "When you can see better,\nyou can care better."
+    }
+  ]
+}

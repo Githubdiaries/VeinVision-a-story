@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,28,&H00FFFFFF,&H000000FF,&HAA1C1B19,&H64000000,0,0,0,0,100,100,0.4,0,1,2.4,0.6,2,70,70,52,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.71,0:00:05.76,Default,,0,0,0,,To a nurse, finding a vein can be routine.
+Dialogue: 0,0:00:05.71,0:00:08.59,Default,,0,0,0,,For a patient, it can feel like a long wait.
+Dialogue: 0,0:00:08.55,0:00:10.08,Default,,0,0,0,,Sometimes painful.
+Dialogue: 0,0:00:10.10,0:00:14.68,Default,,0,0,0,,But sometimes, the technology meant to help\Nstill leaves the moment frustrating.
+Dialogue: 0,0:00:14.99,0:00:19.09,Default,,0,0,0,,Because behind every vein\Nis a person waiting to feel reassured.
+Dialogue: 0,0:00:21.18,0:00:24.42,Default,,0,0,0,,Then another nurse noticed —\Nand offered a different way.
+Dialogue: 0,0:00:27.22,0:00:29.08,Default,,0,0,0,,She picked up VeinVision.
+Dialogue: 0,0:00:33.36,0:00:36.36,Default,,0,0,0,,And this time, she could see\Nthe veins more clearly.
+Dialogue: 0,0:00:40.56,0:00:42.97,Default,,0,0,0,,Less hesitation. Less waiting.
+Dialogue: 0,0:00:42.66,0:00:45.32,Default,,0,0,0,,And a patient who feels\Na little more at ease.
+Dialogue: 0,0:00:53.01,0:00:55.39,Default,,0,0,0,,When you can see better,\Nyou can care better.
